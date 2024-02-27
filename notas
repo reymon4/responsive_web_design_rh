@@ -1,0 +1,9 @@
+
+PASOS PARA UTILIZAR LA TÉCNICA DE RESPONSIVE WEB DESIGN
+1. Apply viewport
+2. En width aplicar las medidas en porcentajes
+    label
+    width:70%
+    2.1. aplicar un ancho máximo. Es decir, debemos delimitar qué tanto va a crecer de maner horizontal el elemento
+    2.2 Aplicar unidad responsiva a los textos
+3. Aplicar media Query
